@@ -17,5 +17,5 @@ variable "spacelift_key_secret" {
 
 variable "worker_pool_id" {
   type      = string
-  default   = "01H02SJKBEX2HW1RC3WCX069MC"
+  default   = "01H05QYX8H4SZ4VT942VN5SP56"
 }
